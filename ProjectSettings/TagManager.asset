@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Platform
+  - attackPoint
+  - Potion
+  - lite_Potion
+  - elite_Potion
+  - Box
+  - weapon
+  - Weapon
+  - 'NHA28H '
+  - NHA28H_SLG2
+  - weapon_2
+  - weapon_3
+  - scrap
+  - chainsaw
+  - sewer_pipe
+  - firepoint
+  - Box_lite
+  - shop
+  - shopItemTemplate
+  - container
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - enemy
+  - Platform
+  - box
+  - potion
+  - Weapon
+  - bullet
+  - bullet_enemy
+  - shop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
